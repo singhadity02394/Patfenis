@@ -1,3 +1,6 @@
+
+![Screenshot 2023-07-08 190402](https://github.com/singhadity02394/Singh_Aditya/assets/136795482/3d5a0d37-c621-4999-98e4-aa3854d0b7be)
+
 #Sorting Visualizer
 
 ```html
@@ -18,7 +21,8 @@
             <div class="array-inputs">
                 <p>Size of the array:</p>
                 <input id="a_size" type="range" min=10 max=150 step=1 value=80>
-                <p>Speed of the algorithm:</p>
+                <p>Speed of the algorithm:</p>![Screenshot 2023-07-08 190402](https://github.com/singhadity02394/Singh_Aditya/assets/136795482/7ae3c533-77ab-48eb-8640-39918eee46bb)
+
                 <input id="a_speed" type="range" min=1 max=5 step=1 value=4>
                 <button id="a_generate">Generate New Array!</button>
             </div>
