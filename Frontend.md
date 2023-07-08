@@ -3,6 +3,8 @@
 
 #Sorting Visualizer
 
+[#Link to visit](http://127.0.0.1:5500/sorting.html)
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
