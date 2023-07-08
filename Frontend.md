@@ -1,9 +1,7 @@
 
-![Screenshot 2023-07-08 190402](https://github.com/singhadity02394/Singh_Aditya/assets/136795482/3d5a0d37-c621-4999-98e4-aa3854d0b7be)
+[![Screenshot 2023-07-08 190402](https://github.com/singhadity02394/Singh_Aditya/assets/136795482/3d5a0d37-c621-4999-98e4-aa3854d0b7be)](http://127.0.0.1:5500/sorting.html)
 
-#Sorting Visualizer
-
-[#Link to visit](http://127.0.0.1:5500/sorting.html)
+##Sorting Visualizer
 
 ```html
 <!DOCTYPE html>
